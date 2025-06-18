@@ -1,0 +1,57 @@
+LABEL;Producent;Opis produktu;ID PÓŁWYROBU;ID WYR. GOT.;NORMA;Rozmiar bombki;OPAKOWANIE; CENA EWIDENCYJNA ;DECORATION;COLOUR;Sztuki w opakowaniu;Ilość sztuk w opakowaniu ;Zamówiona ilość opakowań; Cena za opakowanie ;PICTURE;Customer SKU
+73236;Zewnętrzny;Glass ornament 100mm dec 516 col:N190;116960;;;100;;;516;N190;1;12;12; € 7,80 ;;B5100
+B5101;Vitbis;Glass ornament 100mm col:N192 dec:;115565;115566;40;100;114014/114023/956; 26,38 zł ;KR00258;N192;1;12;12; € 6,90 ;;B5101
+73237;Zewnętrzny;Glass ornament 100mm col:P171-70582;116961;;;100;;;S002;P171;1;12;12; € 7,80 ;;B5102
+B5103;Vitbis;Glass ornament mm col:0000 dec:KR00310;115567;115568;40;100;114014/114023/956; 21,50 zł ;KR00310;0000;1;12;24; € 5,40 ;;B5103
+71990;Zewnętrzny;Glass ornament 100mm col: dec: 452;103238;;;100;;;452;;1;12;12; € 7,80 ;;B5104
+73239;Zewnętrzny;Glass ornament 100mm dec:463 col:G015;116962;;;100;;;463;G015;1;12;12; € 7,80 ;;B5105
+73240;Zewnętrzny;Glass ornament 100mm dec: 513 col: G015;116963;;;100;;;513;G015;1;12;24; € 7,80 ;;B5106
+73241;Zewnętrzny;Glass ornament 100mm dec:445 col:G042;116964;;;100;;;445;G042;1;12;12; € 8,50 ;;B5107
+73242;Zewnętrzny;Glass ornament 100mm dec:607 col:F184;116965;;;100;;;607;F184;1;12;12; € 7,80 ;;B5108
+71910;Zewnętrzny;Glass ornament 100mm dec:412 col:C107;103189;;;100;;;412;C107;1;12;12; € 8,50 ;;B5109
+72056;Zewnętrzny;Glass ornament 100mm dec: 469-72056;103256;;;100;;;469;;1;12;12; € 7,80 ;;B5110
+73245;Zewnętrzny;Glass ornament 100mm dec:EXL01-1-col: P122;116966;;;100;;;EXL01;P122;1;12;12; € 7,80 ;;B5111
+73246;Zewnętrzny;Glass ornament 100mm dec:414col: C003;116967;;;100;;;414;C003;1;12;24; € 7,80 ;;B5112
+73247;Zewnętrzny;Glass ornament 100mm dec:480 col: C003;116968;;;100;;;480;C003;1;12;24; € 7,80 ;;B5113
+73248;Zewnętrzny;Glass ornament 100mm dec: 512 col: C003;116975;;;100;;;512;C003;1;12;24; € 7,80 ;;B5114
+B5115;Vitbis;Glass ornament 100mm col: C002 dec:KR00311;115569;115570;25;100;114014/114023/956; 21,50 zł ;KR00311;C002;1;12;24; € 5,40 ;;B5115
+B5116;Vitbis;Glass ornament 100mm col: C003 dec:KR00312;115571;115572;40;100;114014/114023/956; 21,50 zł ;KR00312;C003;1;12;24; € 5,40 ;;B5116
+73249;Zewnętrzny;Glass ornament 100mm dec:444 C002;116976;;;100;;;444;C002;1;12;12; € 7,80 ;;B5117
+73250;Zewnętrzny;Glass ornament 100mm dec: 408 col:C002 T;116977;;;100;;;408;C002 T;1;12;24; € 7,80 ;;B5118
+73251;Zewnętrzny;Glass ornament  100mm dec: 414 col: C002 T;116978;;;100;;;414;C002 T;1;12;12; € 7,80 ;;B5119
+50928;Vitbis;Glass ornament 100mm dec: KR00242 col: C002 T;115577;115580;40;100;114014/114023/956; 26,38 zł ;KR00242;C002 T;1;12;12; € 6,90 ;;B5120
+B5121;Vitbis;Glass ornament 100mm col:p127 dec:KR00313;115573;115574;50;100;114014/114023/956; 22,37 zł ;KR00313;p127;1;12;12; € 5,40 ;;B5121
+B5122;Vitbis;Glass ornament 100mm dec: KR00191 col: C009;106144;115581;40;100;114014/114023/956; 21,50 zł ;KR00191;C009;1;12;12; € 5,40 ;;B5122
+B5123;Vitbis;Glass ornament 100mm dec: KR00800 col: 0000;115575;115582;65;100;114014/114023/956; 16,92 zł ;KR00800;0000;1;12;12; € 5,40 ;;B5123
+51042;Vitbis;Glass ornament F025 dec: KR00254 col: C142;115576;115585;50;F025;27423/20719/114012/25182; 29,45 zł ;KR00254;C142;1;12;24; € 7,35 ;;B5124
+51000;Vitbis;Glass ornament F025 dec: KR00250 col: F262;114419;115587;45;F025;27423/20719/114012/25182; 31,42 zł ;KR00250;F262;1;12;12; € 7,35 ;;B5125
+B5126;Vitbis;Glass ornament F025 dec: KR00257 col: G126;115600;115602;45;F025;27423/20719/114012/25182; 31,42 zł ;KR00257;G126;1;12;12; € 7,35 ;;B5126
+B5127;Zewnętrzny;Glass ornament C095 dec: KR011 col: C002;;;;C095;;;KR011;G126;1;6;6; € 12,90 ;;B5127
+51040;Vitbis;Glass ornament F003 dec: KE00253 col: C142;115601;115603;60;F003;32368/32367/114011; 37,32 zł ;KR00253;C142;3;10;10; € 12,45 ;;B5128
+50999;Vitbis;Glass ornament F003 dec: KR00250 col: C107;115578;115592;65;F003;32368/32367/114011; 28,37 zł ;KR00250;C107;3;10;10; € 12,45 ;;B5129
+51024;Vitbis;Glass ornament F003 dec: KR00258 col: G015;115579;115596;65;F003;32368/32367/114011; 28,37 zł ;KR00258;G015;3;10;10; € 12,45 ;;B5130
+50940;Vitbis;Glass ornament F003 dec: KR00261 col: G178;115519;115597;65;F003;32368/32367/114011; 28,37 zł ;KR00261;G178;3;10;10; € 12,45 ;;B5131
+73072;Zewnętrzny;Glass ornament F013 dec: 522 col: C002;114611;;;F013;;;522;C002;1;12;12; € 8,20 ;;B5132
+71928;Zewnętrzny;Glass ornament F013 dec: 606 col: G015;103694;;;F013;;;606;G015;1;12;24; € 8,20 ;;B5133
+72341;Zewnętrzny;Glass ornament F071 dec: 474 col:C002;104022;;;F071;;;474;C002;1;12;12; € 8,20 ;;B5134
+72989;Zewnętrzny;Glass ornament F071 dec: 846 col: P193;106960;;;F071;;;846;P193;1;12;12; € 8,20 ;;B5135
+72401;Zewnętrzny;Glass ornament F071 deC: 475 col: C002;104025;;;F071;;;475;C002;1;12;12; € 8,20 ;;B5136
+73135;Zewnętrzny;Glass ornament F072 deC: 472 col: N190;114445;;;F072;;;472;N190;1;12;12; € 8,20 ;;B5137
+72974;Zewnętrzny;Glass ornament F072 dec: 474 col: G126;114541;;;F072;;;474;G126;1;12;12; € 8,20 ;;B5138
+72411;Zewnętrzny;Glass ornament F072 dec: 596 co: C107;104049;;;F072;;;596;C107;1;12;12; € 8,20 ;;B5139
+72391;Zewnętrzny;Glass ornament F072-dec: 514 col: Gold;104046;;;F072;;;514;72318;1;12;12; € 8,20 ;;B5140
+72424;Zewnętrzny;Glass ornament F072 deC: 622 col: C002T;104052;;;F072;;;622;C002T;1;12;24; € 8,20 ;;B5141
+72889;Zewnętrzny;Glass ornament F193 deC: 451 col: P121;104994;;;F193;;;451;P121;12;12;12; € 5,71 ;;B5142
+72673;Zewnętrzny;Glass ornament F015 deC: 143 col: C008;103756;;;F015-143-72138;;;143;C008;1;12;24; € 10,80 ;;B5143-3148
+71396;Zewnętrzny;Glass ornament F010 dec: DC004 col: B003;103660;;;F010;;;DC004;B003;6;12;24; € 5,75 ;;B5144-4134
+73122;Zewnętrzny;Glass ornament F020 dec: 311col: G015;114450;;;F020;;;311;G015;12;24;24; € 4,65 ;;B5145
+73262;Zewnętrzny;Glass ornament F020 dec: 31 col: Z005;117091;;;F020;;;311;Z005;12;24;24; € 4,65 ;;B5146
+73263;Zewnętrzny;Glass Egg F204 deC: 208 col: P122;116980;;;F204;;;208;P122;12;12;12; € 5,71 ;;B5147
+73264;Zewnętrzny;Glass Egg F204 deC: 226 col: C002;116981;;;F204;;;226;C002;12;12;12; € 5,71 ;;B5148
+73265;Zewnętrzny;Glass Egg F204 deC: 228 col:C002;116982;;;F204;;;228;C002;12;12;24; € 5,71 ;;B5149
+72691;Zewnętrzny;Glass Egg F204 deC: 512 col: N190;104478;;;F204;;;512;N190;12;12;24; € 5,71 ;;B5150-4152
+72241;Zewnętrzny;Glass Egg F204 deC: 230 col: G019;104451;;;F204;;;230;G019;12;12;24; € 5,71 ;;B5151
+71379;Zewnętrzny;Glass Egg F204-1-C107;104403;;;F204;;;1;C107;12;12;12; € 5,71 ;;B5152
+72436;Zewnętrzny;Mask F163-1901;104333;;;F163;;;1;;12;12;12; € 10,68 ;;B5153
+71458;Zewnętrzny;Mask F163-1006;104295;;;F163;;;1006;;12;12;12; € 10,68 ;;B5154
+71052;Zewnętrzny;Mask F164-1515;116979;;;F164;;;1515;;1;12;12; € 10,68 ;;B5155
